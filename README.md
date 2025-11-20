@@ -14,7 +14,7 @@ source .venv/bin/activate
 2. Install the minimal requirements for this example:
 
 ```bash
-pip install -r requirements-fastapi.txt
+pip install -r requirements.txt
 ```
 
 3. Run the app with Uvicorn:
